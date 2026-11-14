@@ -53,7 +53,7 @@ ATtiny85 PB4 ── 1k ── SS8050 ── 4.7k ── IRF4905（P-MOS）──
 
 | 路徑 | 內容 |
 |---|---|
-| [`firmware/headlight_toggle/`](firmware/headlight_toggle/) | Arduino 程式（ATTinyCore） |
+| [`firmware/headlight_toggle/`](firmware/headlight_toggle/headlight_toggle.ino) | Arduino 程式（ATTinyCore） |
 | [`hardware/BOM.md`](hardware/BOM.md) | 零件清單 |
 | [`hardware/perfboard.md`](hardware/perfboard.md) | 洞洞板佈線圖與每個零件的孔位 |
 | [`hardware/perfboard.html`](https://allentsou.github.io/attiny85-headlight-toggle/hardware/perfboard.html) | 互動佈線圖（線上開啟，或下載後用瀏覽器開） |
