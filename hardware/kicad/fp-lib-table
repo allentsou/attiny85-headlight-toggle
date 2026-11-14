@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "headlight")(type "KiCad")(uri "${KIPRJMOD}/headlight.pretty")(options "")(descr ""))
+)

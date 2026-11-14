@@ -1,0 +1,62 @@
+(footprint "WirePad_D3.0mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "93671b44-b472-4198-9ac4-69d2e8c26533")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WirePad_D3.0mm"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "e0f4482f-5dd8-45f1-b10d-7c20407cf770")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce679c66-1a77-49f1-a81d-ec06fb4e3146")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62a4571e-7b65-40c8-ad73-7b51d76c60b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 3 3)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9d1863e2-05b4-4fd3-8cd6-f3b9249ec375")
+	)
+	(embedded_fonts no)
+)

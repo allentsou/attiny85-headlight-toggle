@@ -1,0 +1,16 @@
+# KiCad 使用者本機檔案、備份
+*.kicad_prl
+*-backups/
+.history/
+fp-info-cache
+*.lck
+
+# Arduino 編譯輸出
+build/
+*.hex
+*.elf
+
+# 系統檔
+Thumbs.db
+Desktop.ini
+.DS_Store
