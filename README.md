@@ -58,7 +58,7 @@ ATtiny85 PB4 ── 1k ── SS8050 ── 4.7k ── IRF4905（P-MOS）──
 | [`hardware/perfboard.md`](hardware/perfboard.md) | 洞洞板佈線圖與每個零件的孔位 |
 | [`hardware/perfboard.html`](https://allentsou.github.io/attiny85-headlight-toggle/hardware/perfboard.html) | 互動佈線圖（線上開啟，或下載後用瀏覽器開） |
 | [`hardware/kicad/`](hardware/kicad/) | KiCad 10 原理圖、PCB（已送 JLCPCB 製作，尚未驗證）與 Gerber |
-| [`docs/programming.md`](docs/programming.md) | 用 USBasp 燒錄的完整步驟 |
+| [`docs/programming.md`](docs/programming.md) | 用 USBasp 燒錄的完整步驟，附燒錄座洞洞板佈局圖 |
 | [`docs/troubleshooting.md`](docs/troubleshooting.md) | 實際遇過的問題和解法 |
 
 ## 製作步驟
